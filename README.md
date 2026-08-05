@@ -45,4 +45,8 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/lakshita-sharma15/leetcode/tree/master/0238-product-of-array-except-self) |
+## String
+|  |
+| ------- |
+| [0006-zigzag-conversion](https://github.com/lakshita-sharma15/leetcode/tree/master/0006-zigzag-conversion) |
 <!---LeetCode Topics End-->
