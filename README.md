@@ -30,6 +30,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/lakshita-sharma15/leetcode/tree/master/0010-regular-expression-matching) |
 | [0053-maximum-subarray](https://github.com/lakshita-sharma15/leetcode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/lakshita-sharma15/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Two Pointers
@@ -49,4 +50,9 @@
 |  |
 | ------- |
 | [0006-zigzag-conversion](https://github.com/lakshita-sharma15/leetcode/tree/master/0006-zigzag-conversion) |
+| [0010-regular-expression-matching](https://github.com/lakshita-sharma15/leetcode/tree/master/0010-regular-expression-matching) |
+## Recursion
+|  |
+| ------- |
+| [0010-regular-expression-matching](https://github.com/lakshita-sharma15/leetcode/tree/master/0010-regular-expression-matching) |
 <!---LeetCode Topics End-->
