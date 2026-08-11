@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/lakshita-sharma15/leetcode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/lakshita-sharma15/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/lakshita-sharma15/leetcode/tree/master/0031-next-permutation) |
+| [0035-search-insert-position](https://github.com/lakshita-sharma15/leetcode/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/lakshita-sharma15/leetcode/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/lakshita-sharma15/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0118-pascals-triangle](https://github.com/lakshita-sharma15/leetcode/tree/master/0118-pascals-triangle) |
@@ -78,4 +79,8 @@
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/lakshita-sharma15/leetcode/tree/master/0229-majority-element-ii) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/lakshita-sharma15/leetcode/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
