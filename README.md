@@ -20,6 +20,7 @@
 | [0217-contains-duplicate](https://github.com/lakshita-sharma15/leetcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/lakshita-sharma15/leetcode/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/lakshita-sharma15/leetcode/tree/master/0238-product-of-array-except-self) |
+| [0540-single-element-in-a-sorted-array](https://github.com/lakshita-sharma15/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/lakshita-sharma15/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Hash Table
 |  |
@@ -91,4 +92,5 @@
 | [0035-search-insert-position](https://github.com/lakshita-sharma15/leetcode/tree/master/0035-search-insert-position) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/lakshita-sharma15/leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/lakshita-sharma15/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0540-single-element-in-a-sorted-array](https://github.com/lakshita-sharma15/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 <!---LeetCode Topics End-->
