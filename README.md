@@ -12,6 +12,7 @@
 | [0035-search-insert-position](https://github.com/lakshita-sharma15/leetcode/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/lakshita-sharma15/leetcode/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/lakshita-sharma15/leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/lakshita-sharma15/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/lakshita-sharma15/leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0118-pascals-triangle](https://github.com/lakshita-sharma15/leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/lakshita-sharma15/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -58,6 +59,7 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/lakshita-sharma15/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/lakshita-sharma15/leetcode/tree/master/0031-next-permutation) |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/lakshita-sharma15/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/lakshita-sharma15/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Simulation
 |  |
