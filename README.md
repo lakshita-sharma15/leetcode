@@ -23,6 +23,7 @@
 | [0217-contains-duplicate](https://github.com/lakshita-sharma15/leetcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/lakshita-sharma15/leetcode/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/lakshita-sharma15/leetcode/tree/master/0238-product-of-array-except-self) |
+| [0287-find-the-duplicate-number](https://github.com/lakshita-sharma15/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/lakshita-sharma15/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/lakshita-sharma15/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Hash Table
@@ -64,6 +65,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/lakshita-sharma15/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/lakshita-sharma15/leetcode/tree/master/0031-next-permutation) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/lakshita-sharma15/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0287-find-the-duplicate-number](https://github.com/lakshita-sharma15/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/lakshita-sharma15/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Simulation
 |  |
@@ -99,5 +101,18 @@
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/lakshita-sharma15/leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/lakshita-sharma15/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/lakshita-sharma15/leetcode/tree/master/0162-find-peak-element) |
+| [0287-find-the-duplicate-number](https://github.com/lakshita-sharma15/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/lakshita-sharma15/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/lakshita-sharma15/leetcode/tree/master/0287-find-the-duplicate-number) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/lakshita-sharma15/leetcode/tree/master/0287-find-the-duplicate-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/lakshita-sharma15/leetcode/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
