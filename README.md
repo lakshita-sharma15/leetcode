@@ -140,4 +140,20 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/lakshita-sharma15/leetcode/tree/master/0023-merge-k-sorted-lists) |
+## Tree
+|  |
+| ------- |
+| [0099-recover-binary-search-tree](https://github.com/lakshita-sharma15/leetcode/tree/master/0099-recover-binary-search-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0099-recover-binary-search-tree](https://github.com/lakshita-sharma15/leetcode/tree/master/0099-recover-binary-search-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0099-recover-binary-search-tree](https://github.com/lakshita-sharma15/leetcode/tree/master/0099-recover-binary-search-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0099-recover-binary-search-tree](https://github.com/lakshita-sharma15/leetcode/tree/master/0099-recover-binary-search-tree) |
 <!---LeetCode Topics End-->
