@@ -15,6 +15,7 @@
 | [0035-search-insert-position](https://github.com/lakshita-sharma15/leetcode/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/lakshita-sharma15/leetcode/tree/master/0039-combination-sum) |
 | [0053-maximum-subarray](https://github.com/lakshita-sharma15/leetcode/tree/master/0053-maximum-subarray) |
+| [0056-merge-intervals](https://github.com/lakshita-sharma15/leetcode/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/lakshita-sharma15/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/lakshita-sharma15/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/lakshita-sharma15/leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -49,6 +50,7 @@
 | ------- |
 | [0015-3sum](https://github.com/lakshita-sharma15/leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/lakshita-sharma15/leetcode/tree/master/0018-4sum) |
+| [0056-merge-intervals](https://github.com/lakshita-sharma15/leetcode/tree/master/0056-merge-intervals) |
 | [0169-majority-element](https://github.com/lakshita-sharma15/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/lakshita-sharma15/leetcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/lakshita-sharma15/leetcode/tree/master/0229-majority-element-ii) |
@@ -166,4 +168,8 @@
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/lakshita-sharma15/leetcode/tree/master/0100-same-tree) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/lakshita-sharma15/leetcode/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
