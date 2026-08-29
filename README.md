@@ -154,11 +154,13 @@
 | ------- |
 | [0099-recover-binary-search-tree](https://github.com/lakshita-sharma15/leetcode/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/lakshita-sharma15/leetcode/tree/master/0100-same-tree) |
+| [0199-binary-tree-right-side-view](https://github.com/lakshita-sharma15/leetcode/tree/master/0199-binary-tree-right-side-view) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0099-recover-binary-search-tree](https://github.com/lakshita-sharma15/leetcode/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/lakshita-sharma15/leetcode/tree/master/0100-same-tree) |
+| [0199-binary-tree-right-side-view](https://github.com/lakshita-sharma15/leetcode/tree/master/0199-binary-tree-right-side-view) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -168,10 +170,12 @@
 | ------- |
 | [0099-recover-binary-search-tree](https://github.com/lakshita-sharma15/leetcode/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/lakshita-sharma15/leetcode/tree/master/0100-same-tree) |
+| [0199-binary-tree-right-side-view](https://github.com/lakshita-sharma15/leetcode/tree/master/0199-binary-tree-right-side-view) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/lakshita-sharma15/leetcode/tree/master/0100-same-tree) |
+| [0199-binary-tree-right-side-view](https://github.com/lakshita-sharma15/leetcode/tree/master/0199-binary-tree-right-side-view) |
 ## Quicksort
 |  |
 | ------- |
