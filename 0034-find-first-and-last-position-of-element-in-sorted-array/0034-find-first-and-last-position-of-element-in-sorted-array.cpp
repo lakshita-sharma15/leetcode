@@ -28,7 +28,7 @@ public:
             int mid = low + (high - low) / 2;
             if (nums[mid] == target) {
                 ans = mid;
-                low = mid + 1;    // search right
+                low = mid + 1;   
             }
             else if (nums[mid] < target) {
                 low = mid + 1;
