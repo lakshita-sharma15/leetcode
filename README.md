@@ -200,4 +200,8 @@
 |  |
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/lakshita-sharma15/leetcode/tree/master/0316-remove-duplicate-letters) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/lakshita-sharma15/leetcode/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
