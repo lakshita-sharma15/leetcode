@@ -94,6 +94,7 @@
 | [0006-zigzag-conversion](https://github.com/lakshita-sharma15/leetcode/tree/master/0006-zigzag-conversion) |
 | [0010-regular-expression-matching](https://github.com/lakshita-sharma15/leetcode/tree/master/0010-regular-expression-matching) |
 | [0316-remove-duplicate-letters](https://github.com/lakshita-sharma15/leetcode/tree/master/0316-remove-duplicate-letters) |
+| [1021-remove-outermost-parentheses](https://github.com/lakshita-sharma15/leetcode/tree/master/1021-remove-outermost-parentheses) |
 ## Recursion
 |  |
 | ------- |
@@ -192,6 +193,7 @@
 |  |
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/lakshita-sharma15/leetcode/tree/master/0316-remove-duplicate-letters) |
+| [1021-remove-outermost-parentheses](https://github.com/lakshita-sharma15/leetcode/tree/master/1021-remove-outermost-parentheses) |
 ## Greedy
 |  |
 | ------- |
@@ -204,4 +206,8 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/lakshita-sharma15/leetcode/tree/master/0009-palindrome-number) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/lakshita-sharma15/leetcode/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
