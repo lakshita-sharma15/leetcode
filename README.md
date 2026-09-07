@@ -78,6 +78,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/lakshita-sharma15/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/lakshita-sharma15/leetcode/tree/master/0031-next-permutation) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/lakshita-sharma15/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0151-reverse-words-in-a-string](https://github.com/lakshita-sharma15/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0287-find-the-duplicate-number](https://github.com/lakshita-sharma15/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/lakshita-sharma15/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Simulation
@@ -93,6 +94,7 @@
 | ------- |
 | [0006-zigzag-conversion](https://github.com/lakshita-sharma15/leetcode/tree/master/0006-zigzag-conversion) |
 | [0010-regular-expression-matching](https://github.com/lakshita-sharma15/leetcode/tree/master/0010-regular-expression-matching) |
+| [0151-reverse-words-in-a-string](https://github.com/lakshita-sharma15/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0316-remove-duplicate-letters](https://github.com/lakshita-sharma15/leetcode/tree/master/0316-remove-duplicate-letters) |
 | [1021-remove-outermost-parentheses](https://github.com/lakshita-sharma15/leetcode/tree/master/1021-remove-outermost-parentheses) |
 ## Recursion
