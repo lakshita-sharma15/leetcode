@@ -144,6 +144,7 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/lakshita-sharma15/leetcode/tree/master/0023-merge-k-sorted-lists) |
+| [0092-reverse-linked-list-ii](https://github.com/lakshita-sharma15/leetcode/tree/master/0092-reverse-linked-list-ii) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/lakshita-sharma15/leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 ## Heap (Priority Queue)
 |  |
