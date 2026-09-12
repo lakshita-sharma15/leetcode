@@ -84,6 +84,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/lakshita-sharma15/leetcode/tree/master/0258-add-digits) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/lakshita-sharma15/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Prefix Sum
 |  |
@@ -209,8 +210,13 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/lakshita-sharma15/leetcode/tree/master/0009-palindrome-number) |
+| [0258-add-digits](https://github.com/lakshita-sharma15/leetcode/tree/master/0258-add-digits) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/lakshita-sharma15/leetcode/tree/master/1021-remove-outermost-parentheses) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/lakshita-sharma15/leetcode/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
