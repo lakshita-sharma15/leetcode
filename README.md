@@ -39,6 +39,7 @@
 | [0001-two-sum](https://github.com/lakshita-sharma15/leetcode/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/lakshita-sharma15/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/lakshita-sharma15/leetcode/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/lakshita-sharma15/leetcode/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/lakshita-sharma15/leetcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/lakshita-sharma15/leetcode/tree/master/0229-majority-element-ii) |
 ## Divide and Conquer
@@ -79,6 +80,7 @@
 | [0031-next-permutation](https://github.com/lakshita-sharma15/leetcode/tree/master/0031-next-permutation) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/lakshita-sharma15/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/lakshita-sharma15/leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0202-happy-number](https://github.com/lakshita-sharma15/leetcode/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/lakshita-sharma15/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/lakshita-sharma15/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Simulation
@@ -136,6 +138,7 @@
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/lakshita-sharma15/leetcode/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/lakshita-sharma15/leetcode/tree/master/0287-find-the-duplicate-number) |
 ## Backtracking
 |  |
@@ -210,6 +213,7 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/lakshita-sharma15/leetcode/tree/master/0009-palindrome-number) |
+| [0202-happy-number](https://github.com/lakshita-sharma15/leetcode/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/lakshita-sharma15/leetcode/tree/master/0258-add-digits) |
 ## Bracket Sequences
 |  |
