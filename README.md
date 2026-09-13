@@ -87,6 +87,7 @@
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/lakshita-sharma15/leetcode/tree/master/0258-add-digits) |
+| [0412-fizz-buzz](https://github.com/lakshita-sharma15/leetcode/tree/master/0412-fizz-buzz) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/lakshita-sharma15/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Prefix Sum
 |  |
@@ -99,6 +100,7 @@
 | [0010-regular-expression-matching](https://github.com/lakshita-sharma15/leetcode/tree/master/0010-regular-expression-matching) |
 | [0151-reverse-words-in-a-string](https://github.com/lakshita-sharma15/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0316-remove-duplicate-letters](https://github.com/lakshita-sharma15/leetcode/tree/master/0316-remove-duplicate-letters) |
+| [0412-fizz-buzz](https://github.com/lakshita-sharma15/leetcode/tree/master/0412-fizz-buzz) |
 | [1021-remove-outermost-parentheses](https://github.com/lakshita-sharma15/leetcode/tree/master/1021-remove-outermost-parentheses) |
 ## Recursion
 |  |
@@ -215,6 +217,7 @@
 | [0009-palindrome-number](https://github.com/lakshita-sharma15/leetcode/tree/master/0009-palindrome-number) |
 | [0202-happy-number](https://github.com/lakshita-sharma15/leetcode/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/lakshita-sharma15/leetcode/tree/master/0258-add-digits) |
+| [0412-fizz-buzz](https://github.com/lakshita-sharma15/leetcode/tree/master/0412-fizz-buzz) |
 ## Bracket Sequences
 |  |
 | ------- |
