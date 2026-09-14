@@ -216,6 +216,7 @@
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/lakshita-sharma15/leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/lakshita-sharma15/leetcode/tree/master/0009-palindrome-number) |
 | [0202-happy-number](https://github.com/lakshita-sharma15/leetcode/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/lakshita-sharma15/leetcode/tree/master/0258-add-digits) |
