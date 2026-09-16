@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/lakshita-sharma15/leetcode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/lakshita-sharma15/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0011-container-with-most-water](https://github.com/lakshita-sharma15/leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/lakshita-sharma15/leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/lakshita-sharma15/leetcode/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/lakshita-sharma15/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -74,6 +75,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/lakshita-sharma15/leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/lakshita-sharma15/leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/lakshita-sharma15/leetcode/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/lakshita-sharma15/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -207,6 +209,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/lakshita-sharma15/leetcode/tree/master/0011-container-with-most-water) |
 | [0316-remove-duplicate-letters](https://github.com/lakshita-sharma15/leetcode/tree/master/0316-remove-duplicate-letters) |
 | [1903-largest-odd-number-in-string](https://github.com/lakshita-sharma15/leetcode/tree/master/1903-largest-odd-number-in-string) |
 ## Monotonic Stack
