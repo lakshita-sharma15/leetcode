@@ -81,6 +81,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/lakshita-sharma15/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/lakshita-sharma15/leetcode/tree/master/0031-next-permutation) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/lakshita-sharma15/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0125-valid-palindrome](https://github.com/lakshita-sharma15/leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/lakshita-sharma15/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0202-happy-number](https://github.com/lakshita-sharma15/leetcode/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/lakshita-sharma15/leetcode/tree/master/0287-find-the-duplicate-number) |
@@ -101,6 +102,7 @@
 | ------- |
 | [0006-zigzag-conversion](https://github.com/lakshita-sharma15/leetcode/tree/master/0006-zigzag-conversion) |
 | [0010-regular-expression-matching](https://github.com/lakshita-sharma15/leetcode/tree/master/0010-regular-expression-matching) |
+| [0125-valid-palindrome](https://github.com/lakshita-sharma15/leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/lakshita-sharma15/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0316-remove-duplicate-letters](https://github.com/lakshita-sharma15/leetcode/tree/master/0316-remove-duplicate-letters) |
 | [0344-reverse-string](https://github.com/lakshita-sharma15/leetcode/tree/master/0344-reverse-string) |
