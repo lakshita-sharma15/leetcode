@@ -111,6 +111,7 @@
 | [0316-remove-duplicate-letters](https://github.com/lakshita-sharma15/leetcode/tree/master/0316-remove-duplicate-letters) |
 | [0344-reverse-string](https://github.com/lakshita-sharma15/leetcode/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/lakshita-sharma15/leetcode/tree/master/0412-fizz-buzz) |
+| [0796-rotate-string](https://github.com/lakshita-sharma15/leetcode/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/lakshita-sharma15/leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/lakshita-sharma15/leetcode/tree/master/1903-largest-odd-number-in-string) |
 ## Recursion
@@ -245,4 +246,8 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/lakshita-sharma15/leetcode/tree/master/0014-longest-common-prefix) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/lakshita-sharma15/leetcode/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
