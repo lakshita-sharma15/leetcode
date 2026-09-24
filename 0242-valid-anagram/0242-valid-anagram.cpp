@@ -5,12 +5,15 @@ public:
             return false;
         }
        
-       sort(s.begin(),s.end());
-       sort(t.begin(),t.end());
-       
-       if(s != t){
-        return false;
+       unordered_map<char,int>m1;
+       unordered_map<char,int>m2;
+
+       for(int i=0;i<s.length();i++){
+        m1[s[i]]++;
        }
-       return true;
+        for(int i=0;i<s.length();i++){
+        m2[t[i]]++;
+       }
+       return m1 == m2;
            }
 };
