@@ -31,6 +31,7 @@
 | [0217-contains-duplicate](https://github.com/lakshita-sharma15/leetcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/lakshita-sharma15/leetcode/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/lakshita-sharma15/leetcode/tree/master/0238-product-of-array-except-self) |
+| [0283-move-zeroes](https://github.com/lakshita-sharma15/leetcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/lakshita-sharma15/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/lakshita-sharma15/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0875-koko-eating-bananas](https://github.com/lakshita-sharma15/leetcode/tree/master/0875-koko-eating-bananas) |
@@ -94,6 +95,7 @@
 | [0125-valid-palindrome](https://github.com/lakshita-sharma15/leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/lakshita-sharma15/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0202-happy-number](https://github.com/lakshita-sharma15/leetcode/tree/master/0202-happy-number) |
+| [0283-move-zeroes](https://github.com/lakshita-sharma15/leetcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/lakshita-sharma15/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/lakshita-sharma15/leetcode/tree/master/0344-reverse-string) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/lakshita-sharma15/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
