@@ -42,6 +42,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/lakshita-sharma15/leetcode/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/lakshita-sharma15/leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0138-copy-list-with-random-pointer](https://github.com/lakshita-sharma15/leetcode/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/lakshita-sharma15/leetcode/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/lakshita-sharma15/leetcode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/lakshita-sharma15/leetcode/tree/master/0202-happy-number) |
@@ -183,6 +184,7 @@
 | [0023-merge-k-sorted-lists](https://github.com/lakshita-sharma15/leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0092-reverse-linked-list-ii](https://github.com/lakshita-sharma15/leetcode/tree/master/0092-reverse-linked-list-ii) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/lakshita-sharma15/leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0138-copy-list-with-random-pointer](https://github.com/lakshita-sharma15/leetcode/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/lakshita-sharma15/leetcode/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/lakshita-sharma15/leetcode/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/lakshita-sharma15/leetcode/tree/master/0876-middle-of-the-linked-list) |
