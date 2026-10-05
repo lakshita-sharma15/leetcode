@@ -133,6 +133,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/lakshita-sharma15/leetcode/tree/master/0002-add-two-numbers) |
 | [0010-regular-expression-matching](https://github.com/lakshita-sharma15/leetcode/tree/master/0010-regular-expression-matching) |
 | [0021-merge-two-sorted-lists](https://github.com/lakshita-sharma15/leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/lakshita-sharma15/leetcode/tree/master/0206-reverse-linked-list) |
@@ -180,6 +181,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/lakshita-sharma15/leetcode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/lakshita-sharma15/leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0023-merge-k-sorted-lists](https://github.com/lakshita-sharma15/leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0092-reverse-linked-list-ii](https://github.com/lakshita-sharma15/leetcode/tree/master/0092-reverse-linked-list-ii) |
@@ -254,6 +256,7 @@
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/lakshita-sharma15/leetcode/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/lakshita-sharma15/leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/lakshita-sharma15/leetcode/tree/master/0009-palindrome-number) |
 | [0202-happy-number](https://github.com/lakshita-sharma15/leetcode/tree/master/0202-happy-number) |
