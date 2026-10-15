@@ -20,6 +20,7 @@
 | [0056-merge-intervals](https://github.com/lakshita-sharma15/leetcode/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/lakshita-sharma15/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/lakshita-sharma15/leetcode/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/lakshita-sharma15/leetcode/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/lakshita-sharma15/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/lakshita-sharma15/leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0118-pascals-triangle](https://github.com/lakshita-sharma15/leetcode/tree/master/0118-pascals-triangle) |
@@ -168,6 +169,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/lakshita-sharma15/leetcode/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/lakshita-sharma15/leetcode/tree/master/0136-single-number) |
 | [0287-find-the-duplicate-number](https://github.com/lakshita-sharma15/leetcode/tree/master/0287-find-the-duplicate-number) |
 ## Pigeonhole Principle
@@ -184,6 +186,7 @@
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/lakshita-sharma15/leetcode/tree/master/0039-combination-sum) |
+| [0078-subsets](https://github.com/lakshita-sharma15/leetcode/tree/master/0078-subsets) |
 ## Linked List
 |  |
 | ------- |
