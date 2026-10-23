@@ -141,6 +141,7 @@
 | [0344-reverse-string](https://github.com/lakshita-sharma15/leetcode/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/lakshita-sharma15/leetcode/tree/master/0412-fizz-buzz) |
 | [0451-sort-characters-by-frequency](https://github.com/lakshita-sharma15/leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [0784-letter-case-permutation](https://github.com/lakshita-sharma15/leetcode/tree/master/0784-letter-case-permutation) |
 | [0796-rotate-string](https://github.com/lakshita-sharma15/leetcode/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/lakshita-sharma15/leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/lakshita-sharma15/leetcode/tree/master/1903-largest-odd-number-in-string) |
@@ -184,6 +185,7 @@
 | [0090-subsets-ii](https://github.com/lakshita-sharma15/leetcode/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/lakshita-sharma15/leetcode/tree/master/0136-single-number) |
 | [0287-find-the-duplicate-number](https://github.com/lakshita-sharma15/leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0784-letter-case-permutation](https://github.com/lakshita-sharma15/leetcode/tree/master/0784-letter-case-permutation) |
 ## Pigeonhole Principle
 |  |
 | ------- |
@@ -202,6 +204,7 @@
 | [0046-permutations](https://github.com/lakshita-sharma15/leetcode/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/lakshita-sharma15/leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/lakshita-sharma15/leetcode/tree/master/0090-subsets-ii) |
+| [0784-letter-case-permutation](https://github.com/lakshita-sharma15/leetcode/tree/master/0784-letter-case-permutation) |
 ## Linked List
 |  |
 | ------- |
