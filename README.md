@@ -155,6 +155,7 @@
 | [0050-powx-n](https://github.com/lakshita-sharma15/leetcode/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/lakshita-sharma15/leetcode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/lakshita-sharma15/leetcode/tree/master/0234-palindrome-linked-list) |
+| [1922-count-good-numbers](https://github.com/lakshita-sharma15/leetcode/tree/master/1922-count-good-numbers) |
 ## Matrix
 |  |
 | ------- |
@@ -298,6 +299,7 @@
 | [0263-ugly-number](https://github.com/lakshita-sharma15/leetcode/tree/master/0263-ugly-number) |
 | [0412-fizz-buzz](https://github.com/lakshita-sharma15/leetcode/tree/master/0412-fizz-buzz) |
 | [1903-largest-odd-number-in-string](https://github.com/lakshita-sharma15/leetcode/tree/master/1903-largest-odd-number-in-string) |
+| [1922-count-good-numbers](https://github.com/lakshita-sharma15/leetcode/tree/master/1922-count-good-numbers) |
 ## Bracket Sequences
 |  |
 | ------- |
