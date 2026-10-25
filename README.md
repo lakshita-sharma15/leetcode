@@ -145,6 +145,7 @@
 | [0784-letter-case-permutation](https://github.com/lakshita-sharma15/leetcode/tree/master/0784-letter-case-permutation) |
 | [0796-rotate-string](https://github.com/lakshita-sharma15/leetcode/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/lakshita-sharma15/leetcode/tree/master/1021-remove-outermost-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/lakshita-sharma15/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/lakshita-sharma15/leetcode/tree/master/1903-largest-odd-number-in-string) |
 ## Recursion
 |  |
@@ -279,6 +280,7 @@
 | [0234-palindrome-linked-list](https://github.com/lakshita-sharma15/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0316-remove-duplicate-letters](https://github.com/lakshita-sharma15/leetcode/tree/master/0316-remove-duplicate-letters) |
 | [1021-remove-outermost-parentheses](https://github.com/lakshita-sharma15/leetcode/tree/master/1021-remove-outermost-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/lakshita-sharma15/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Greedy
 |  |
 | ------- |
@@ -307,6 +309,7 @@
 | ------- |
 | [0022-generate-parentheses](https://github.com/lakshita-sharma15/leetcode/tree/master/0022-generate-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/lakshita-sharma15/leetcode/tree/master/1021-remove-outermost-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/lakshita-sharma15/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Number Theory
 |  |
 | ------- |
