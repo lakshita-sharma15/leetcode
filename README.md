@@ -349,4 +349,8 @@
 |  |
 | ------- |
 | [0458-poor-pigs](https://github.com/lakshita-sharma15/leetcode/tree/master/0458-poor-pigs) |
+## Database
+|  |
+| ------- |
+| [0197-rising-temperature](https://github.com/lakshita-sharma15/leetcode/tree/master/0197-rising-temperature) |
 <!---LeetCode Topics End-->
