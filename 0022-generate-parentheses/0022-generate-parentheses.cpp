@@ -12,7 +12,7 @@ public:
         }
 
         if(open<n){
-            curr.push_back('(');
+        curr.push_back('(');
         solve(curr,n,open+1,close);
         curr.pop_back();
         }
